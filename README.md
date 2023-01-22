@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarcT25, I have a Bachelor's degree in Computer Science and A Associate's degree in Computer Science.
+- 👋 Hi, I’m @MarcT25, I have a Bachelor's degree in Computer Science and an Associate's degree in Computer Science.
 - 👀 I’m interested in game development and software development.
-- 🌱 I’m currently learning SpringBoot.
+- 🌱 I’m currently learning SpringBoot and SQL.
 - 💞️ I’m looking to collaborate on games or any other software to improve my knowledge in the computer science field.
 - 📫 How to reach me email me at marcostdicent@gmail.com
 
